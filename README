@@ -1,0 +1,35 @@
+/*******************************
+ * Yixin Liang, yliang43
+ * 2019 Summer CMPS101 PA2
+ * README
+ * brief description of the project
+ *******************************/
+
+List.h
+- headers for List ADT, a module of the operation of the List type
+
+List.c
+- define each operation of the List type, creates a doubly linked list
+
+ListTest.c
+- test each function of the List ADT to see if it runs correctly and without memory leaks
+
+Matrix.h
+- headers for Matrix ADT, a module of the operation of the Matrix type
+
+Matrix.c
+- define each operation of the Matrix type, creates empty Matrices
+
+MatrixTest.c
+- test each function of the Matrix ADT to see if it runs correctly and without memory leaks
+
+Sparse.c
+- This program reads inputs from the input file and creates two Matrices based on inputs. Then prints out various Matrix operation output in output file.
+
+Makefile
+- Creates executable binary files for both Sparse.c
+
+README
+- Gives a brief description of the project
+
+
